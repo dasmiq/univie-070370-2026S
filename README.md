@@ -3,6 +3,8 @@
 
 **Class meetings:** Monday&ndash;Thursday, 4&ndash;7 May 2026, 15:00&ndash;18:15; Friday, 8 May 2026, 13:15&ndash;16:30
 
+**Office hours** in Hauptgebäude, ZG102.15: Mo–Th 13:00–14:00, Fr 12:00–13:00
+
 #### Syllabus
 
 At each meeting of the seminar, I will give an introduction to data analysis and practical applications from the work in our lab. We will then discuss research papers on the archival underpinnings of cultural technologies.
