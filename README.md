@@ -18,8 +18,8 @@ At the last meeting of the seminar (8 May), students will informally present ide
   - Bonnie Mak. [Archaeology of a Digitization](https://www.scribd.com/document/860906343/Asso-for-Info-Science-Tech-2014-Mak-Archaeology-of-a-digitization-2). _Journal of the Association for Information Science and Technology_, 65(8), Aug. 2014, pp. 1515–26.
 
 * 6 May
-  - Li Lucy, Suchin Gururangan, Luca Soldaini1, Emma Strubell1, David Bamman, Lauren Klein, and Jesse Dodge. [AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters](https://doi.org/10.48550/arXiv.2401.06408). In _Proceedings of the Assocition for Computational Linguistics_, 2024.
-  - Kent K. Chang, Mackenzie Cramer, Sandeep Soni, and David Bamman. [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4](https://aclanthology.org/2023.emnlp-main.453/). In _EMNLP_ 2023.
+  - Li Lucy, Suchin Gururangan, Luca Soldaini, Emma Strubell, David Bamman, Lauren Klein, and Jesse Dodge. [AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters](https://doi.org/10.48550/arXiv.2401.06408). In _Proceedings of the Assocition for Computational Linguistics_, 2024.
+  - Kent K. Chang, Mackenzie Cramer, Sandeep Soni, and David Bamman. [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4](https://aclanthology.org/2023.emnlp-main.453/). In _Empirical Methods in Natural Language Processing_ 2023.
   - Try the [Infini-gram dataset exploration tool](https://huggingface.co/spaces/liujch1998/infini-gram).
 
 * 7 May
