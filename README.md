@@ -9,7 +9,7 @@
 
 At each meeting of the seminar, I will give an introduction to data analysis and practical applications from the work in our lab. We will then discuss research papers on the archival underpinnings of cultural technologies.
 
-At the last meeting of the seminar (8 May), students will informally present ideas for a project proposal for understanding AI models from an archival perspective or using AI models are tools to understand the structure and development of archival collections. Students will then have two further weeks to submit the written proposal.
+At the last meeting of the seminar (8 May), students will informally present ideas for a project proposal for understanding AI models from an archival perspective or using AI models are tools to understand the structure and development of archival collections. Students will then have until 1 June at 17:00 to submit the written proposal of around 3000 words.
 
 * 4 May: [Generative AI as a Cultural Technology](aias-intro-20260504.pdf)
   - Henry Farrell, Alison Gopnik, Cosma Shalizi, James Evans. [Large AI models are cultural and social technologies](https://henryfarrell.net/wp-content/uploads/2025/03/Science-Accepted-Version.pdf). _Science_ 387:1153&ndash;1156, 2025.
