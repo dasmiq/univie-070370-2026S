@@ -26,7 +26,7 @@ At the last meeting of the seminar (8 May), students will informally present ide
 
 * 7 May
   - Melanie Walsh, Anna Preus, and Maria Antoniak. [Sonnet or Not, Bot? Poetry Evaluation for Large Models and Datasets](https://arxiv.org/abs/2406.18906). In _Findings of EMNLP_, 2024.
-  - Ximing Lu, Melanie Sclar, Skyler Hallinan, Niloofar Mireshghallah, Jiacheng Liu, Seungju Han, Allyson Ettinger, Liwei Jiang, Khyathi Chandu, Nouha Dziri, and Yejin Choi. [AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](https://arxiv.org/abs/2410.04265). In _ICLR_, 2024.
+  - Ximing Lu, Melanie Sclar, Skyler Hallinan, Niloofar Mireshghallah, Jiacheng Liu, Seungju Han, Allyson Ettinger, Liwei Jiang, Khyathi Chandu, Nouha Dziri, and Yejin Choi. [AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](https://arxiv.org/abs/2410.04265). In _ICLR_, 2025.
 
 * 8 May
   - Olmo Team (Ettinger et al.). [Olmo 3](http://arxiv.org/abs/2512.13961). arXiv.2512.13961, 2025.
